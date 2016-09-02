@@ -2720,10 +2720,12 @@ Show #$chancing, top
 # Judgement Staff - Hegemony's/Pledge of Hands
 # Desert Brigandine - Can be chanced into Lightning Coil	
 # Assassin's Garb - Corspri's Will
-	
+# Glorious Plate - Kaom`s Heart	
+# Aegis Aurora - Champion Kite Shield
+
 ### REGULAR CHANCE BASES ###	
 Show #$chancing
-	BaseType "Occultist's Vestment" "Assassin's Garb" "Prophecy Wand" "Deicide Mask"
+	BaseType "Occultist's Vestment" "Assassin's Garb" "Prophecy Wand" "Deicide Mask" "Glorious Plate" "Judgement Staff" "Champion Kite Shield"
 	Rarity Normal
 	SetTextColor 255 255 255 255
 	SetBorderColor 0 150 0 150
